@@ -174,6 +174,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [iFixit](https://www.ifixit.com/Guide) - Step-by-step guides for repairing various devices.
 - [Repair Café](https://www.repaircafe.org/en/) - Free meeting places for repairing things together.
 - [The Restart Project](https://therestartproject.org/) - Repair education, repair events, and advocacy for the right to repair.
+- [DeadOrSupported](https://cerberostech.github.io/deadorsupported/) - Tracks when phones, smart-home devices and other gadgets stop getting software updates, with sources.
 
 ##### Repurposing
 
